@@ -78,16 +78,12 @@
     </a>
   </p>
 
-  <br>
-
   <h3>Databases</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis&perline=6" alt="Databases" />
     </a>
   </p>
-
-  <br>
   
   <h3>Cloud & DevOps</h3>
   <p align="center">
@@ -124,8 +120,7 @@
     alt="GitHub Streak"
     height="165"
   />
-
-  <br><br>
+  <br>
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKier2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
