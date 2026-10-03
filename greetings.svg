@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 150" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&amp;display=swap');
+      .handwritten {
+        font-family: 'Caveat', 'Segoe Print', 'Chalkboard SE', 'Comic Sans MS', cursive, sans-serif;
+        font-size: 46px;
+        font-weight: 700;
+        fill: #111827;
+      }
+    </style>
+  </defs>
+
+  <!-- Green Filled Rounded Rectangle -->
+  <rect x="20" y="16" width="660" height="118" rx="32" ry="32" fill="#38b24a" />
+
+  <!-- Layer 1: Hand-drawn Jittery Outline -->
+  <path d="M 54 15 
+           Q 350 13, 646 16 
+           Q 684 17, 683 55 
+           Q 685 95, 682 115 
+           Q 681 135, 644 135 
+           Q 350 137, 54 134 
+           Q 16 135, 17 95 
+           Q 15 55, 18 55 
+           Q 19 16, 54 15 Z" 
+        fill="none" stroke="#18181b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Layer 2: Sketchy Double-Stroke Overlay -->
+  <path d="M 14 52 
+           C 15 22, 24 18, 56 17 
+           C 250 15, 480 18, 650 15 
+           C 680 14, 686 28, 685 58 
+           C 684 90, 688 112, 652 133 
+           C 490 136, 260 133, 52 136 
+           C 22 136, 15 124, 16 92 
+           C 17 65, 14 35, 15 25" 
+        fill="none" stroke="#18181b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.85" />
+
+  <!-- Hand-drawn Corner Accents -->
+  <path d="M 12 42 C 14 26, 24 14, 48 13" fill="none" stroke="#18181b" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 650 13 C 674 15, 687 26, 689 48" fill="none" stroke="#18181b" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 688 102 C 686 124, 672 137, 648 138" fill="none" stroke="#18181b" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 48 137 C 24 136, 13 122, 14 100" fill="none" stroke="#18181b" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Centered Hand-drawn Text -->
+  <text x="350" y="88" text-anchor="middle" class="handwritten">
+    👋 Hello World, I'm Kier!
+  </text>
+</svg>
