@@ -4,7 +4,6 @@
   <img src="./greetings.svg" alt="Hello World, I'm Kier!" width="650" />
 </p>
 
-  <!-- Dynamic Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=99F738&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+AI+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
@@ -32,14 +31,14 @@
 
 ---
 
-### 🚀 Featured Project: Sabay
+## 🚀 Featured Project
 
 <table>
   <tr>
     <td>
       <div align="center">
         <h3><a href="https://github.com/xKier2/Sabay">Sabay: AI-Powered Work Management Platform</a></h3>
-        <p><em>Streamlined board and task orchestration inspired by Jira & monday.com, supercharged with autonomous multi-agent task extraction.</em></p>
+        <p><em>Streamlined board and task orchestration, supercharged with autonomous multi-agent task extraction.</em></p>
       </div>
 
   **Key Highlights & Agent Mode:**
@@ -68,7 +67,7 @@
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 <div align="center">
 
@@ -101,7 +100,7 @@
 
 ---
 
-### 🏆 Hackathons & Technical Competitions
+## 🏆 Hackathons & Competitions
 
 | Event | Organizer / Host | Key Focus |
 | :--- | :--- | :--- |
@@ -110,7 +109,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -137,7 +136,7 @@
 
 ---
 
-<h2>Open Source & Collaboration</h2>
+## Open Source & Collaboration
 
 > [!NOTE]
 > You're welcome to explore my public repositories, report reproducible issues, suggest improvements, and submit contributions to projects that accept them. Contribution rules and project scope may vary by repository, so check each project's README, issue tracker, and contribution guidance first.
