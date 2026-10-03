@@ -38,13 +38,13 @@
     <td>
       <div align="center">
         <h3><a href="https://github.com/xKier2/Sabay">Sabay: AI-Powered Work Management Platform</a></h3>
-        <p><em>Streamlined board and task orchestration, supercharged with autonomous multi-agent task extraction.</em></p>
+        <p><em>Simplify board and task orchestration, supercharged with autonomous multi-agent task extraction.</em></p>
       </div>
 
   **Key Highlights & Agent Mode:**
   * **Boards & Work Management:** Organize tasks, sprints, and team workflows on interactive boards.
   * **Autonomous Agent Mode:** Upload raw text PDFs (meeting notes, PRDs, project briefs) to trigger a team of AI agents that automatically parses deliverables, assigns owners, estimates timelines, and sets due dates.
-  * **Intelligent Deduplication:** Prevents duplicate task creation using hybrid similarity matching via dense vector embeddings (`fastembed`) and fuzzy string matching (`RapidFuzz`).
+  * **Intelligent Deduplication:** Prevents duplicate task creation using similarity matching via vector embeddings (`fastembed`) and fuzzy string matching (`RapidFuzz`).
 
   ---
 
