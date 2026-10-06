@@ -1,10 +1,14 @@
 <div align="center">
 
-<p align="center">
-  <img src="./greetings.svg" alt="Hello World, I'm Kier!" width="650" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=KIER%20TONGOL&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=COMPUTER%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=62&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=99F738&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+AI+Engineer)](https://git.io/typing-svg)
+<br>
+
+**I experiment with AI systems to understand what they can actually do.**
+
+LLMs · Agentic AI · Autonomous Systems · Machine Learning
+
+<br>
 
 <p align="center">
   <a href="mailto:kier.tongol18@gmail.com">
@@ -31,119 +35,182 @@
 
 ---
 
-## 🚀 Featured Project
+### STATUS
 
-<table>
-  <tr>
-    <td>
-      <div align="center">
-        <h3><a href="https://github.com/xKier2/Sabay">Sabay: AI-Powered Work Management Platform</a></h3>
-        <p><em>Simplify board and task orchestration, supercharged with autonomous multi-agent task extraction.</em></p>
-      </div>
+```text
+STATUS      ACTIVE
+FOCUS       AI SYSTEMS
+MODE        EXPERIMENTING
 
-  **Key Highlights & Agent Mode:**
-  * **Boards & Work Management:** Organize tasks, sprints, and team workflows on interactive boards.
-  * **Autonomous Agent Mode:** Upload raw text PDFs (meeting notes, PRDs, project briefs) to trigger a team of AI agents that automatically parses deliverables, assigns owners, estimates timelines, and sets due dates.
-  * **Intelligent Deduplication:** Prevents duplicate task creation using similarity matching via vector embeddings (`fastembed`) and fuzzy string matching (`RapidFuzz`).
+CURRENT
+└─ Free to Work
 
-  ---
+NEXT
+└─ Deeper ML & Model Training
+```
 
-  #### 🛠️ Architectural Stack
-
-  * **AI Ecosystem & Providers:** ![NVIDIA AI](https://img.shields.io/badge/NVIDIA_AI-76B900?style=flat-square&logo=nvidia&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F05A28?style=flat-square) ![OpenRouter API](https://img.shields.io/badge/OpenRouter_API-6366F1?style=flat-square) ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Meta AI](https://img.shields.io/badge/Meta_AI-0668E1?style=flat-square&logo=meta&logoColor=white) ![httpx](https://img.shields.io/badge/httpx-2D3748?style=flat-square)
-  * **Backend & API:** ![Python 3](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square)
-  * **Database & Vector Search:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLAlchemy 2.0](https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![psycopg 3](https://img.shields.io/badge/psycopg_3-2F6792?style=flat-square) ![Alembic](https://img.shields.io/badge/Alembic-003B57?style=flat-square)
-  * **Duplicate Search:** ![FastEmbed](https://img.shields.io/badge/FastEmbed-2563EB?style=flat-square) ![RapidFuzz](https://img.shields.io/badge/RapidFuzz-EAB308?style=flat-square)
-  * **Document Parsing & Services:** ![pdfplumber](https://img.shields.io/badge/pdfplumber-E11D48?style=flat-square) ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
-  * **Frontend:** ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  * **Testing Suite:** ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-FCC72B?style=flat-square&logo=vitest&logoColor=black)
-
-  <p align="center">
-    <a href="https://github.com/xKier2/Sabay"><strong>View Sabay Repository & Documentation &rarr;</strong></a>
-  </p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Technical Stack
+## ◈ CURRENT FOCUS
+
+I'm exploring how AI systems can move beyond generating responses and begin to **act**.
+
+```text
+                    ARTIFICIAL INTELLIGENCE
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+            LLMs        AGENTIC AI       MACHINE LEARNING
+             │               │               │
+             ▼               ▼               ▼
+         Tool Use       Autonomy        Model Training
+         Retrieval      Planning        Experimentation
+         Context       Multi-Agent      Evaluation
+```
+
+My current work centers around **LLM-based agents, tool use, autonomous workflows, and multi-agent systems**.
+
+---
+
+## ◈ TECHNOLOGY STACK
+
+### LANGUAGE
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"/>
+</p>
+
+### MACHINE LEARNING FRAMEWORKS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="52" alt="PyTorch, TensorFlow"/>
+</p>
+
+---
+
+## ◈ LABORATORY
+
+### SABAY
+
+**Autonomous Multi-Agent Task Orchestration**
+
+> Simplify board and task orchestration, supercharged with autonomous multi-agent task extraction.
+
+Sabay explores how autonomous agents can extract and organize tasks from a board, turning unstructured work into an orchestrated workflow.
+
+`Python` · `Algorithms` · `AI Agents` · `Multi-Agent Systems`
+
+**[ VIEW PROJECT → ](https://github.com/xKier2/Sabay)**
+
+---
+
+### AGENTIC AI QUIZ APP
+
+**ACTIVE EXPERIMENT**
+
+I'm currently developing an AI-powered quiz system built around agentic workflows.
+
+The project explores:
+
+```text
+MODEL
+  ↓
+TOOLS
+  ↓
+AGENT
+  ↓
+DECISION
+  ↓
+ACTION
+  ↓
+RESULT
+```
+
+The objective is to explore how far an AI system can operate beyond simple text generation.
+
+---
+
+## ◈ EXPLORATION LOG
+
+```text
+[01] LLMs
+     Understanding models as the foundation of AI systems.
+
+[02] TOOL USE
+     Giving models access to external capabilities.
+
+[03] AGENTIC SYSTEMS
+     Moving from response generation toward task execution.
+
+[04] MULTI-AGENT SYSTEMS
+     Exploring coordination between specialized agents.
+
+[05] MACHINE LEARNING
+     Working toward deeper model training and experimentation.
+```
+
+---
+
+## ◈ GITHUB ACTIVITY
 
 <div align="center">
 
-  <h3>Languages & Frameworks</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,html,css,tailwind,vue,vite,fastapi,spring&perline=6" alt="Languages & Frameworks" />
-    </a>
-  </p>
+<img src="https://github-readme-stats.vercel.app/api?username=xKier2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Statistics"/>
 
-  <h3>Databases</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis&perline=6" alt="Databases" />
-    </a>
-  </p>
-  
-  <h3>Cloud & DevOps</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,postman&perline=6" alt="Cloud & DevOps" />
-    </a>
-  </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKier2&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xKier2&hide_border=true&theme=transparent" height="165" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 Hackathons & Competitions
+## ◈ DIRECTION
 
-| Event | Organizer / Host | Key Focus |
-| :--- | :--- | :--- |
-| **Inside the Game: Developer Hackathon** | **Microsoft Innovation Studio** | Cloud Innovation & Rapid Prototyping |
-| **AppBuildersPH Hackathon** | **AppBuildersPH & Cerebral Valley** | AI-First Applications & Product Development |
+I'm working toward becoming a **Software Engineer specializing in Artificial Intelligence**.
+
+My current path:
+
+```text
+Software Engineering
+        │
+        ▼
+   AI Systems
+        │
+        ▼
+   Agentic AI
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Model Training & Experimentation
+```
 
 ---
-
-## 📊 GitHub Activity
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xKier2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    alt="GitHub Stats"
-    height="165"
-  />
+### KIER TONGOL
 
-  <img
-    src="https://streak-stats.demolab.com?user=xKier2&theme=tokyonight&hide_border=true&background=0D1117"
-    alt="GitHub Streak"
-    height="165"
-  />
-  <br>
+`COMPUTER SCIENCE` · `ARTIFICIAL INTELLIGENCE` · `AGENTIC SYSTEMS`
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKier2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    alt="Top Languages"
-  />
+<br>
+
+<a href="https://github.com/xKier2">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Experiment. Observe. Iterate.</sub>
 
 </div>
 
----
-
-## Open Source & Collaboration
-
-> [!NOTE]
-> You're welcome to explore my public repositories, report reproducible issues, suggest improvements, and submit contributions to projects that accept them. Contribution rules and project scope may vary by repository, so check each project's README, issue tracker, and contribution guidance first.
-
----
-
-<p align="center">
-  <strong>Thanks for stopping by.</strong>
-  <br>
-  <sub>Feel free to explore, connect, and collaborate.</sub>
-</p>
-
-<p align="center">
-  <sub>© 2026 Kier Gabriel Tongol</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
